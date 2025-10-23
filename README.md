@@ -4,8 +4,8 @@ Agentic AI system for performing analytics on healthcare data
 ## Prerequisites
 
 * 🔥 [Folder of FHIR Resources](./fhir/) -- this is excluded from the repo via `.gitignore` but can be populated by your own FHIR Resources or with a synthetic data generator like [synthea](https://synthea.mitre.org/).
-* Python 3.12+
-* Various python libraries, for which I attempt to include installation steps in each playbook. Apologies if I missed any. I'll provide a virtual environment at some point.
+* 🐍 Python 3.12+
+* 📚 Various python libraries, for which I attempt to include installation steps in each playbook. Apologies if I missed any. I'll provide a virtual environment at some point.
 
 ## Folder organization
 
