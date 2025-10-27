@@ -1,5 +1,7 @@
 # agentic-healthcare-analytics
-Agentic AI system for performing analytics on healthcare data
+![Agentic Healthcare](assets/agentic-healthcare.png)
+
+WIP Agentic AI system for performing analytics on healthcare data. Providing an agentic interface for interacting with [🔥 FHIR](https://fhir.org/) Resources.
 
 ## Prerequisites
 
